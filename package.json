@@ -1,0 +1,19 @@
+{
+  "name": "andrew-kolormatic",
+  "version": "1.0.0",
+  "description": "Kolormatic from AndrewNation is a NPM library that generates colors for you in either RGB or HEX formats.",
+  "main": "kolormatic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "color",
+    "tools",
+    "andrewnation"
+  ],
+  "author": "AndrewNation",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
+}
